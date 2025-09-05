@@ -1,0 +1,6 @@
+@OGCBackend_HostAddress = http://localhost:5084
+
+GET {{OGCBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
